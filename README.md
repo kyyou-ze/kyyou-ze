@@ -20,6 +20,13 @@ dari backend Node.js sampai tampilan frontend.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>📖 Goyomi <sub><code>repo privat</code></sub></h3>
+      <p>Platform baca <b>novel &amp; manga</b>: pembaca layar penuh, XP/level/misi/toko, chat, komentar, dan dashboard kreator. Frontend Next.js 14 (App Router) + TypeScript + Tailwind + shadcn/ui, backend Go — lengkap dengan API contract, SEO/Open Graph, dan sitemap otomatis.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Go</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/kyyou-ze/Bot-ai-yuzaki-tsukasa">Bot-ai-yuzaki-tsukasa</a></h3>
       <p>Tsukasa — asisten WhatsApp berkarakter dengan AI Gemini dan bridge plugin Kaguya: RPG, game, anime, sticker, tools, downloader, dan ratusan fitur lain.</p>
