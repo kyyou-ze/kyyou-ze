@@ -70,12 +70,14 @@ dari backend Node.js sampai tampilan frontend.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kyyou-ze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyyou-ze&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="168" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyyou-ze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+<img height="168" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyyou-ze&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyyou-ze&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img width="98%" src="https://streak-stats.demolab.com/?user=kyyou-ze&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyyou-ze&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Kontribusi" alt="Activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyyou-ze&theme=tokyonight" alt="Profile details" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyyou-ze&theme=tokyonight" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyyou-ze&theme=tokyonight" alt="Most commit language" />
 
 </div>
 
